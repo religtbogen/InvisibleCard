@@ -20,8 +20,8 @@
     background: linear-gradient(rgba(0, 0, 0, 0.379), rgba(0, 0, 0, 0.379)), url(images/bg.jpg) no-repeat center;
     border-radius: 5px;
     overflow: hidden;
-    transition: box-shadow .3s;
-    transition: border .3s;
+    transition: box-shadow .3s 1.5s;
+    transition: border .3s 1.5s;
 }
 
 .card-wrapper:hover {
